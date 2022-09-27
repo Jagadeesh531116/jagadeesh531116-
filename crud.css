@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding:10px 20px;
+    background-color:turquoise;
+    color: white;
+    align-items: center;
+}
+
+.navlist {
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+}
+
+.navbtn {
+    display: flex;
+    gap: 10px;
+}
+
+.navbtn button{
+    border: none;
+    background-color:rgb(65, 19, 139);
+    padding: 7px 10px;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+}
+
+.table, tr, th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
